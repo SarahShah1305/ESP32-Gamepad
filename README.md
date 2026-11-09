@@ -2,6 +2,8 @@
 
 A DIY Bluetooth Low Energy (BLE) gamepad built with an ESP32 development board, one analog joystick, and four push buttons. The ESP32 advertises as **ESP32 Custom Pad** and sends standard gamepad axes and button inputs to a paired device.
 
+![Photo of the ESP32 gamepad](IMG_7920.jpeg)
+
 ## Features
 
 - Left joystick reports horizontal and vertical axes.
